@@ -5,7 +5,7 @@ import "./Header.css"
 
 const Header = () => {
     // for break point
-    const[Toggle, showMenu] = useState(false);
+    const [Toggle, showMenu] = useState(false);
 
     return (
         <header className="header">
@@ -32,11 +32,6 @@ const Header = () => {
                         <li className="nav_item">
                             <a href="#services" className="nav_link">
                                 <i className="uil uil-briefcase nav_icon"></i> Services
-                            </a>
-                        </li>
-                        <li className="nav_item">
-                            <a href="#portfolio" className="nav_link">
-                                <i className="uil uil-scenery nav_icon"></i> Portfolio
                             </a>
                         </li>
                         <li className="nav_item">
