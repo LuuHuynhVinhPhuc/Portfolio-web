@@ -61,7 +61,7 @@ const Contact = () => {
                         </div>
 
                         <button className='button button--flex'>
-                            Say Hello
+                            Send
 
                             <svg
                                 className="button_icon"
