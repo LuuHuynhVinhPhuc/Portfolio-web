@@ -65,7 +65,7 @@ const Services = () => {
 
                             <h3 className="services_modal-title">Visual Designer</h3>
                             <p className="services_modal-description">
-                                I can:
+                                With my experience, this is what i can do:
                             </p>
 
                             <ul className="services_modal-services grid">
