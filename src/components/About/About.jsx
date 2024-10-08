@@ -17,7 +17,7 @@ const About = () => {
                     <Info />
 
                     <p className="about_description">
-                        Full-Stack developer, I create web pages with UI / UX user interface and query record from database.
+                        Hello! My name is Luu Huynh Vinh Phuc, and I am a fresher web developer with a strong passion for building web applications and continuously learning new technologies. I have completed personal projects using technologies such as ReactJS, ASP.NET Core, and PostgreSQL, and I am eager to expand my knowledge in web development. My goal is to become a professional developer, contributing to exciting projects and delivering valuable solutions to users through innovative technology.
                     </p>
 
                     <a download="" href={CV} className="button button--flex">
