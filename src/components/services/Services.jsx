@@ -17,7 +17,7 @@ const Services = () => {
                 <div className="services_content">
                     <div>
                         <i className="uil uil-web-grid services_icon"></i>
-                        <h3 className="services_title">Product <br/> Developer</h3>
+                        <h3 className="services_title">Product <br /> Developer</h3>
                     </div>
 
                     <span className="services_button" onClick={() => toggleTab(1)}>View more {" "} <i className="uil uil-arrow-right services_button-icon"></i></span>
@@ -28,13 +28,13 @@ const Services = () => {
 
                             <h3 className="services_modal-title">Product Developer</h3>
                             <p className="services_modal-description">
-                            Service with more than 3 years of experience. Providing quality work to clients and companies.
+                                With my experience, this is what i can do:
                             </p>
 
                             <ul className="services_modal-services grid">
                                 <li className='services_modal-service'>
                                     <i className="uil uil-check-circle services_modal-icon"></i>
-                                    <p className="services_modal-info">I develop the user interface and database for it.</p>
+                                    <p className="services_modal-info">Develop the user interface and database for it.</p>
                                 </li>
 
                                 <li className='services_modal-service'>
@@ -44,7 +44,7 @@ const Services = () => {
 
                                 <li className='services_modal-service'>
                                     <i className="uil uil-check-circle services_modal-icon"></i>
-                                    <p className="services_modal-info">I create database for management.</p>
+                                    <p className="services_modal-info">Create database for management.</p>
                                 </li>
                             </ul>
                         </div>
@@ -54,7 +54,7 @@ const Services = () => {
                 <div className="services_content">
                     <div>
                         <i className="uil uil-arrow services_icon"></i>
-                        <h3 className="services_title">Visual <br/> Designer</h3>
+                        <h3 className="services_title">Visual <br /> Designer</h3>
                     </div>
 
                     <span className="services_button" onClick={() => toggleTab(2)}>View more {" "} <i className="uil uil-arrow-right services_button-icon"></i></span>
@@ -65,7 +65,7 @@ const Services = () => {
 
                             <h3 className="services_modal-title">Visual Designer</h3>
                             <p className="services_modal-description">
-                            I can:
+                                I can:
                             </p>
 
                             <ul className="services_modal-services grid">
